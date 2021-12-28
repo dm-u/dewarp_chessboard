@@ -1,5 +1,7 @@
 Dewarp scanned photo by chessboard.
 
+![example](example.tif)
+
 How to use:
 1. Print grids.
 2. Make photo of photo print.
@@ -12,4 +14,5 @@ Using:
 
 Example:
 
-    python.exe dewarp_chess.py 20210114_164614.jpg 39 29 20210114_164614.jpg 20210114_164614_dewarped.tif  
+    python.exe dewarp_chess.py 20210114_164614.jpg 39 29 20210114_164614.jpg 20210114_164614_dewarped.tif
+
