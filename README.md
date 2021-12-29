@@ -1,12 +1,12 @@
-Dewarp scanned photo by chessboard.
+Dewarping reproductions with chessboard image.
 
 ![example](/example.png)
 
 How to use:
-1. Print grids.
-2. Make photo of photo print.
-3. Don't move the camera or photo print. Put image of chessboard on the photo print. Make photo of chessboard.
-4. Use this images dewarp.
+1. Pring a grid from grid folder. Don't scale images.
+2. Make digital photo of object. For example, old photo print in a photo album with curved pages.
+3. Put the image of chessboard on the photo print. Don't change anything in the setup. Make a photo of chessboard grid.
+4. Dewarp the image of photo print with the image of grid.
 
 Using:
 
@@ -15,4 +15,6 @@ Using:
 Example:
 
     python.exe dewarp_chess.py 20210114_164614.jpg 39 29 20210114_164614.jpg 20210114_164614_dewarped.tif
+
+See Python source for details.
 
